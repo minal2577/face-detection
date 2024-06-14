@@ -12,8 +12,8 @@ Welcome to the **Face Cartoonizer** project! This application applies a cartoon 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+   git clone https://github.com/minal2577/face-detection.git
+   cd face-detection
     ```
 
 2. **Install dependencies**:
